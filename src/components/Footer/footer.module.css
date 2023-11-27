@@ -1,0 +1,30 @@
+.Footer {
+  display: flex;
+  justify-content: center;
+  margin-top: 80px;
+}
+
+.footer_link {
+  color: #737373;
+  margin-right: 15px;
+  font-size: 12px;
+  font-weight: 400;
+  cursor: pointer;
+}
+
+.footer_options {
+  color: #737373;
+  margin-right: 15px;
+  font-size: 12px;
+  font-weight: 400;
+  cursor: pointer;
+  border: none;
+  background-color: transparent;
+  color: #737373;
+}
+
+.last_row_footer {
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+}
